@@ -1,4 +1,4 @@
-FROM python:3.9.0-slim
+FROM python:3.14.3-slim
 
 # App version is passed as a build argument.
 # If not provided, the latest version will be installed.
